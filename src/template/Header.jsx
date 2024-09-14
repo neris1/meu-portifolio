@@ -10,7 +10,7 @@ function Header(){
     return (
         <Navbar bg="dark" data-bs-theme='dark' expand="lg" className="bg-body-tertiary">
           <Container fluid>
-            <Navbar.Brand href="#">Neris</Navbar.Brand>
+            <Navbar.Brand href="#">João Victor Neris</Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarScroll" />
             <Navbar.Collapse id="navbarScroll">
               <Nav
@@ -18,8 +18,8 @@ function Header(){
                 style={{ maxHeight: '100px' }}
                 navbarScroll>
                 <Nav.Link href="/"> Home </Nav.Link>
-                <Nav.Link href="/"> Sobre Mim </Nav.Link>
-                <Nav.Link href="/"> Contato </Nav.Link>
+                <Nav.Link href="/SobreMim"> Sobre Mim </Nav.Link>
+                <Nav.Link href="/Contato"> Contato </Nav.Link>
               </Nav>
              
             </Navbar.Collapse>

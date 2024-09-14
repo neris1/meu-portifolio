@@ -2,9 +2,12 @@ import React from "react";
 
 function Contato(){
     return (
-        <>
-        <h1>João Victor Neris</h1>
-        </>
+        <div class="main-container">
+        <h1>Aqui vocês tem acesso a todos os meus contatos
+            <p>N° - (19)99460-8260</p>
+            <p>Gmail - Nerisjoaovictor0@gmail.com</p>
+        </h1>
+        </div>
     )
 }
 

@@ -1,0 +1,24 @@
+.cinza{
+    width: 100%;
+    min-height: 400px;
+    background-color: #a7a7ac;
+    padding-top: 30px;
+}
+h1{
+    
+    padding: 
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px;
+  }
+  
+  .tamanho{
+    height: 20%;
+    width: 20%;
+   
+  }
+  
